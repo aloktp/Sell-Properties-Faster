@@ -1,4 +1,4 @@
-# Eleven Labs Outbound Caller  
+# Real Estate AI Agent for Outbound Call
 
 This project demonstrates the integration of **Eleven Labs Conversational AI** with **Twilio** to enable seamless real-time interactions during outbound and inbound phone calls. The system leverages WebSockets for media streaming and integrates Eleven Labs' advanced conversational AI capabilities for human-like interactions.
 
